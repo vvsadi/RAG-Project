@@ -15,4 +15,5 @@ pandas
 numpy
 sentence-transformers
 pypdf
+pymupdf
 langchain-huggingface
